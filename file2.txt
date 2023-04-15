@@ -1,3 +1,1 @@
-this is line 1 of file 2
-this is second line
-3
+updatting content for merge conflict`
